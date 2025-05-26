@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:0, Monumental 100.3 FM
+https://radio2.grupointernet.com/8103/stream
+
+#EXTINF:0, zumba 88.7 santiago rodriguez
+http://72.167.33.184:9088/;
+
+#EXTINF:0, sabor fm 88.9 zenoradio
+https://stream-57.zeno.fm/4ty2zx9rxfeuv?zs=fcceLTPeQ6egUwjx3T6qug
+
+#EXTINF:0, fmdigitalnewyork
+http://3fmdigital.com/listen/
+
+#EXTINF:0, la linda fm
+https://radio.streamingcpanel.com:7040/;
+
+#EXTINF:0,CoC Radio Dial
+http://node-24.zeno.fm/8wgv914262quv?rj-ttl=5
+
+#EXTINF:0,HIBI
+https://stream-158.zeno.fm/l9wzpxypnh5tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJsOXd6cHh5cG5oNXR2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ikk1SlduTVlPUjJlUUJQQ0FBWEFlaWciLCJpYXQiOjE3NDgyMjIyNjQsImV4cCI6MTc0ODIyMjMyNH0.0LSK49C9EqFvGOlo-hU0Q6FRxON0Enn4MiSzqbTz4wI
+
+#EXTINF:0,Baladas fm
+https://samcloud.spacial.com/api/listen?sid=100765
+
+#EXTINF:0,radioazua.com
+http://radioazua.com/listen/
+
+#EXTINF:0, 1010wins
+https://prod-54-175-153-60.amperwave.net/audacy-winsamaac-llhlsc.m3u8/?offset=30&oso=-21&apv=a2&dist=Audacy&source=webA2&a2_app_version=16.11.0&a2_session_id=48df0495-a748-1cd1-a3f7-8d4c62a81bc0&gpp=DBABrGA%7EBVQVAAAABWA.QA%7EBUUAAAFY.QA%7EBVUAABY%7EBVUAAFg.QA%7EBVFAAAWA%7EBVUAAAFg.QA&t_partner_ids=e30&deviceid=app%3Af8k%3A2fec0470c76a43a5587c21f0540acb90&c_user_id=f8k%3A2fec0470c76a43a5587c21f0540acb90&newMeta=true&z=1140c7cac9f54f91b3c0b45c1b0324d5&p=1
+
+#EXTINF:0, maremotoradio
+https://rs2.radiordomi.com/8374/stream
