@@ -12,9 +12,6 @@ https://stream-57.zeno.fm/4ty2zx9rxfeuv?zs=fcceLTPeQ6egUwjx3T6qug
 #EXTINF:0, fmdigitalnewyork
 http://3fmdigital.com/listen/
 
-#EXTINF:0, la linda fm
-https://radio.streamingcpanel.com:7040/;
-
 #EXTINF:0,CoC Radio Dial
 http://node-24.zeno.fm/8wgv914262quv?rj-ttl=5
 
@@ -33,27 +30,7 @@ https://prod-54-175-153-60.amperwave.net/audacy-winsamaac-llhlsc.m3u8/?offset=30
 #EXTINF:0, maremotoradio
 https://rs2.radiordomi.com/8374/stream
 
-#EXTINF:0, Sleep Relaxation Music - Zen Radio
-https://content.audioaddict.com/prd/1/7/1/0/c/9290e266eb133eda1777a92d4411f5282d8.mp4?purpose=playback&audio_token=0e72406f0da996e761c240283bc7dd10&network=zenradio&device=firefox_143_linux&exp=2025-10-11T04:12:17Z&auth=3e49d43d720ea289e5efa700ea696a52a8868e22
-
-#EXTINF:0, Nature Relaxation Music - Zen Radio
-https://content.audioaddict.com/prd/5/8/a/7/b/4d012c49b6da6887b8976ffe80accc61928.mp4?purpose=playback&audio_token=0e72406f0da996e761c240283bc7dd10&network=zenradio&device=firefox_143_linux&exp=2025-10-11T04:19:40Z&auth=e452fb3f8ba929d494b6166ee274b7760b3f1969
-
-#EXTINF:0, Relaxing Classical Music - Zen Radio
-https://content.audioaddict.com/prd/e/2/4/5/2/2da8b0ba68b0cd225076b82b61961ed509f.mp4?purpose=playback&audio_token=0e72406f0da996e761c240283bc7dd10&network=zenradio&device=firefox_143_linux&exp=2025-10-11T04:21:30Z&auth=eac86d6bb936149af90146ec62d934d821806bb4
-
-#EXTINF:0, Nature - RadioTunes | free music radio
-https://content.audioaddict.com/prd/d/e/2/5/b/44db072240338431618e2a3cf2bfb58a389.mp4?purpose=playback&audio_token=937d80e3d4bff06b6cffdc642670c02b&network=radiotunes&device=firefox_143_linux&exp=2025-10-11T04:30:57Z&auth=47db004f9d25b525db997c45c7ded92adde9745a
-
 #EXTINF:0, Bird Sounds Spectacular Morning.mp3
-https://archive.org/download/relaxing-forest-nature-sounds/Bird%20Sounds%20Spectacular%20Morning.mp3
-
-#EXTINF:0, nature 2
-https://ia801008.us.archive.org/14/items/relaxing-forest-nature-sounds/Nature%2017%20The%20Most%20Relaxing.mp3
-
-#EXTINF:0, nature 1
-https://archive.org/download/relaxing-forest-nature-sounds/Nature%20Sounds%20Meditation.mp3
-
-#EXTINF:0, aaaaaaaaaaaa
 https://archive.org/download/relaxing-forest-nature-sounds/Relaxing%20Forest%20Nature%20Sounds.mp3
+
 
