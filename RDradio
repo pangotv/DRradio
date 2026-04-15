@@ -25,13 +25,6 @@ https://samcloud.spacial.com/api/listen?sid=100765
 http://radioazua.com/listen/
 
 #EXTINF:0, 1010wins
-https://prod-54-175-153-60.amperwave.net/audacy-winsamaac-llhlsc.m3u8/?offset=30&oso=-21&apv=a2&dist=Audacy&source=webA2&a2_app_version=16.11.0&a2_session_id=48df0495-a748-1cd1-a3f7-8d4c62a81bc0&gpp=DBABrGA%7EBVQVAAAABWA.QA%7EBUUAAAFY.QA%7EBVUAABY%7EBVUAAFg.QA%7EBVFAAAWA%7EBVUAAAFg.QA&t_partner_ids=e30&deviceid=app%3Af8k%3A2fec0470c76a43a5587c21f0540acb90&c_user_id=f8k%3A2fec0470c76a43a5587c21f0540acb90&newMeta=true&z=1140c7cac9f54f91b3c0b45c1b0324d5&p=1
+https://prod-13-220-138-249.amperwave.net/audacy-winsamaac-llhlsc.m3u8/?offset=30&oso=-21&apv=a2&dist=Audacy&source=webA2&gpp=DBABrGA%7EBVQqAAAACWA.QA%7EBUoAAAJY.QA%7EBVoAABY%7EBVoAAFg.QA%7EBVKAAAWA%7EBVoAAAFg.QA&a2_app_version=2026.03.01&a2_session_id=1df611b2-b0f1-bcf7-83a0-8bdc2cd070c9&deviceid=app%3Af8k%3Abcb9659b55bfb56bcfd2a928ebf82e9f&c_user_id=f8k%3Abcb9659b55bfb56bcfd2a928ebf82e9f&sc=2&newMeta=true&z=ce3551bda70d47d482e006022ad7d8c0&p=1
 
-#EXTINF:0, maremotoradio
-https://rs2.radiordomi.com/8374/stream
 
-#EXTINF:0, The Christmas Station - Ad-free Christmas music all year
-https://stream.thechristmasstation.org/main/64.aac?refresh=1764865117779
-
-#EXTINF:0, Bird-aaa
-https://archive.org/download/relaxing-forest-nature-sounds/Relaxing%20Forest%20Nature%20Sounds.mp3
