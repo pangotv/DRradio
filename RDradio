@@ -3,6 +3,12 @@
 #EXTINF:0, Monumental 100.3 FM
 https://radio2.grupointernet.com/8103/stream
 
+#EXTINF:0,CoC Radio Dial
+http://node-24.zeno.fm/8wgv914262quv?rj-ttl=5
+
+#EXTINF:0,HIBI
+https://stream-158.zeno.fm/l9wzpxypnh5tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJsOXd6cHh5cG5oNXR2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ikk1SlduTVlPUjJlUUJQQ0FBWEFlaWciLCJpYXQiOjE3NDgyMjIyNjQsImV4cCI6MTc0ODIyMjMyNH0.0LSK49C9EqFvGOlo-hU0Q6FRxON0Enn4MiSzqbTz4wI
+
 #EXTINF:0, zumba 88.7 santiago rodriguez
 http://72.167.33.184:9088/;
 
@@ -11,12 +17,6 @@ https://stream-57.zeno.fm/4ty2zx9rxfeuv?zs=fcceLTPeQ6egUwjx3T6qug
 
 #EXTINF:0, fmdigitalnewyork
 https://ny4.cloverstream.com:8010/live?refresh=1769046663681
-
-#EXTINF:0,CoC Radio Dial
-http://node-24.zeno.fm/8wgv914262quv?rj-ttl=5
-
-#EXTINF:0,HIBI
-https://stream-158.zeno.fm/l9wzpxypnh5tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJsOXd6cHh5cG5oNXR2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ikk1SlduTVlPUjJlUUJQQ0FBWEFlaWciLCJpYXQiOjE3NDgyMjIyNjQsImV4cCI6MTc0ODIyMjMyNH0.0LSK49C9EqFvGOlo-hU0Q6FRxON0Enn4MiSzqbTz4wI
 
 #EXTINF:0,Baladas fm
 https://samcloud.spacial.com/api/listen?sid=100765
